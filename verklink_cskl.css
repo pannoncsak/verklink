@@ -21,7 +21,7 @@ h1 {
 	color: #870000;	
 	font-size: 52px;
 	font-family: Calibri;
-	}
+}
 .container .inner-container {
     background-color: #ffffa0;
 	width: 90%;
@@ -35,10 +35,10 @@ h1 {
 	height: 400px;
 	position: relative;
 	text-align: center;
-	}
+}
 ul {
 	padding: 10px;
-	}
+}
 ul li {
    	display: block;
    	padding: 5px 0px;
